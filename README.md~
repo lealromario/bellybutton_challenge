@@ -34,3 +34,7 @@ Display the sample metadata, i.e., an individual's demographic information.
 
 Display each key-value pair from the metadata JSON object somewhere on the page.
 
+-------------------------------------------
+** To Find the code and solution **
+Click StarterCode => static/js => apps.js
+
